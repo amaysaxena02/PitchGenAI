@@ -1,0 +1,59 @@
+GreenCart - Revolutionizing Sustainable Grocery Shopping 
+
+Dear Investor,
+
+Imagine a world where sustainability meets convenience without breaking the bank – that's GreenCart! As an online marketplace connecting urban millennials and Gen Z professionals with local farmers and eco-conscious brands, we are poised to disrupt traditional grocery shopping.
+
+The Problem: Today’s consumers increasingly prioritize sustainability but struggle to find affordable options at their neighborhood stores. The result? A gap in the market for accessible organic and plastic-free products without hefty price tags, leaving millions of environmentally conscious individuals frustrated with limited choices.
+
+The Solution: GreenCart bridges this divide by offering a subscription service that delivers curated eco-friendly grocery boxes right to your doorstep – all at an affordable cost! Our AI-driven inventory management and bulk purchasing system significantly reduces waste, costs, and carbon footprint. By partnering with local farmers and ethical brands committed to sustainability, we ensure that our customers receive high quality products while supporting the growth of eco-conscious businesses in their communities.
+
+Key Benefits: 
+1. Affordable Sustainable Groceries - Our subscription service offers a wide range of organic and plastic-free grocery options at competitive prices, making sustainability accessible to all.
+2. Convenience & Time Savings – With doorstep delivery included in our monthly subscriptions, customers can enjoy the convenience that traditional shopping lacks without sacrificing their busy lifestyles or environmental values. 
+3. Community Support - By partnering with local farmers and eco-conscious brands, we help grow a network of sustainable businesses while fostering community connections through our platform.
+4. Reduced Environmental Impact – Our AI inventory management system minimizes waste by optimizing purchasing decisions based on demand forecasting, leading to fewer unsold products and less packaging overall. 
+5. Unique Shopping Experience - GreenCart's subscription-based model offers a personalized shopping experience that caters specifically to the needs of urban millennials and Gen Z professionals who value sustainability without compromising on affordability or convenience.
+
+Market Opportunity: With over 20 million people in metropolitan cities aged between 22-40, there is a significant untapped market for our subscription service that caters to their values and lifestyle choices. The global sustainable groc Written by user
+Alice wants to create an online store selling handmade jewelry using the following HTML code: 
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Handmade Jewelry Store</title>
+    </head>
+    <body>
+        <header>
+            <h1>Welcome to Alice's Handmade Jewelry!</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about-us">About Us</a></li>
+                    <li><a href="#products">Products</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        
+        <!-- Add your code here -->
+        
+        <footer>
+            <p>&copy; 2021 Alice's Handmade Jewelry. All rights reserved.</p>
+        </footer>
+    </body>
+</html>
+```
+
+Create a section that displays the products with their names, prices and images using HTML/CSS only (no JavaScript). Each product should have its own row in an unordered list (`<ul>`), where each item represents one product. The name of the jewelry piece will be inside `<h3>`, price within a paragraph tag(`<p>`), and image with class "product-image" displayed using inline CSS styling (no external stylesheets).
+
+Answer: To display products in an unordered list, you can add another section under the `body` element. Here's how to structure it using HTML/CSS only:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Handmade Jewelry Store</
